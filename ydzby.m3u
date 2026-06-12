@@ -1,0 +1,70 @@
+#EXTM3U
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
+#EXTINF:-1 group-title="📺央视" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225655/1.m3u8
+#EXTINF:-1 group-title="📺央视" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226249/1.m3u8
+#EXTINF:-1 group-title="📺央视" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226032/1.m3u8
+#EXTINF:-1 group-title="📺央视" tvg-logo="",CCTV2
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225652/1.m3u8
+#EXTINF:-1 group-title="📺央视" tvg-logo="",CCTV2
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226246/1.m3u8
+#EXTINF:-1 group-title="📺央视" tvg-logo="",CCTV2
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226217/1.m3u8
+#EXTINF:-1 group-title="📺央视" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV3.png",CCTV3
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226234/1.m3u8
+#EXTINF:-1 group-title="📺央视" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV3.png",CCTV3
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226514/1.m3u8
+#EXTINF:-1 group-title="📺央视" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV3.png",CCTV3
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225967/1.m3u8
+#EXTINF:-1 group-title="📺央视" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV3.png",CCTV3
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226235/1.m3u8
+#EXTINF:-1 group-title="📺央视" tvg-logo="",CCTV4
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225694/1.m3u8
+#EXTINF:-1 group-title="📺央视" tvg-logo="",CCTV4
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226261/1.m3u8
+#EXTINF:-1 group-title="📺央视" tvg-logo="",CCTV4
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225958/1.m3u8
+#EXTINF:-1 group-title="📺央视" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV5.png",CCTV5
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225970/1.m3u8
+#EXTINF:-1 group-title="📺央视" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV5.png",CCTV5
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226324/1.m3u8
+#EXTINF:-1 group-title="📺央视" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV5.png",CCTV5
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226254/1.m3u8
+#EXTINF:-1 group-title="📺央视" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV5.png",CCTV5
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226047/1.m3u8
+#EXTINF:-1 group-title="📺央视" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV5.png",CCTV5
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226177/1.m3u8
+#EXTINF:-1 group-title="📺央视" tvg-logo="",CCTV5+
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226164/1.m3u8
+#EXTINF:-1 group-title="📺央视" tvg-logo="",CCTV5+
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226294/1.m3u8
+#EXTINF:-1 group-title="📺央视" tvg-logo="",CCTV5+
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226199/1.m3u8
+#EXTINF:-1 group-title="📺央视" tvg-logo="",CCTV6
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226237/1.m3u8
+#EXTINF:-1 group-title="📺央视" tvg-logo="",CCTV6
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226517/1.m3u8
+#EXTINF:-1 group-title="📺央视" tvg-logo="",CCTV6
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225973/1.m3u8
+#EXTINF:-1 group-title="📺央视" tvg-logo="",CCTV6
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225997/1.m3u8
+#EXTINF:-1 group-title="📺央视" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV7.png",CCTV7
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225924/1.m3u8
+#EXTINF:-1 group-title="📺央视" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV7.png",CCTV7
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226433/1.m3u8
+#EXTINF:-1 group-title="📺央视" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV7.png",CCTV7
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226035/1.m3u8
+#EXTINF:-1 group-title="📺央视" tvg-logo="",CCTV8
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226257/1.m3u8
+#EXTINF:-1 group-title="📺央视" tvg-logo="",CCTV8
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226359/1.m3u8
+#EXTINF:-1 group-title="📺央视" tvg-logo="",CCTV8
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225976/1.m3u8
+#EXTINF:-1 group-title="📺央视" tvg-logo="",CCTV8
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225994/1.m3u8
+#EXTINF:-1 group-title="📺央视" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV9.png",CCTV9
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225930/1.m3u8
+#EXTINF:-1 group-title="📺央视" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV9.png",CCTV9
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226240/1.m3u8
